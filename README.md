@@ -170,4 +170,4 @@ If you need help, open an issue in this repo or reach out to the maintainer.
 
 ---
 
-*Generated README — edit as needed before publishing.*
+
